@@ -35,6 +35,7 @@ ridership estimates for various MTA-operated transit services. The data includes
 bus, Long Island Rail Road (LIRR), Metro-North, Access-A-Ride, and Bridges and Tunnels 
 traffic counts. Additionally, the dataset includes percentage comparisons to equivalent 
 pre-pandemic ridership levels. 
+
 Data Collection Methodology 
 
 - Subway and Bus Ridership: Derived from MetroCard and OMNY swipes and taps, 
