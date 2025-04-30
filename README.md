@@ -1,5 +1,7 @@
- 
-<img src="MTA-Logo.png" alt="Logo" width="200"/>
+<p align="center">
+   <img src="MTA-Logo.png" alt="Logo" width="200"/>
+</p>
+
 # MTA Daily Ridership Data Analysis Project
 ## CLS ONL2_DAT2_G2 Group #3 Project 
 ### Introduction 
