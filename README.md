@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="MTA-Logo.png" alt="Logo" width="200"/>
+   <img src="Screenshots/MTA-Logo.png" alt="Logo" width="200"/>
 </p>
 
 # MTA Daily Ridership Data Analysis Project
