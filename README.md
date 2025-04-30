@@ -1,4 +1,4 @@
-# MTA Daily Ridership Data Analysis Project
+![Logo](MTA-Logo.png) # MTA Daily Ridership Data Analysis Project
 ## CLS ONL2_DAT2_G2 Group #3 Project 
 ### Introduction 
 Public transportation is a critical component of urban mobility, and understanding 
