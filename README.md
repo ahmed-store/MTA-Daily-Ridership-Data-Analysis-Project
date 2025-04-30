@@ -3,7 +3,13 @@
 </p>
 
 # MTA Daily Ridership Data Analysis Project
-## CLS ONL2_DAT2_G2 Group #3 Project 
+## CLS ONL2_DAT2_G2 
+## Group 3 MEMBERS 
+- Amer Ahmed Soliman
+- Ahmed Sherif Ahmed
+- Ahmed Mohamed El-Sayed
+- Ebtsam Emam El-Sayed
+ 
 ### Introduction 
 Public transportation is a critical component of urban mobility, and understanding 
 ridership trends can help transit authorities make data-driven decisions. The COVID-19 
