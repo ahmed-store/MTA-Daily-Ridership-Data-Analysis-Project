@@ -3,8 +3,7 @@
 </p>
 
 # MTA Daily Ridership Data Analysis Project
-## CLS ONL2_DAT2_G2 
-## Group 3 MEMBERS 
+## Group 3 Members (CLS ONL2_DAT2_G2) 
 - Amer Ahmed Soliman
 - Ahmed Sherif Ahmed
 - Ahmed Mohamed El-Sayed
