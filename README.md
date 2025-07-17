@@ -57,14 +57,17 @@ weekdays, Saturdays, and Sundays/holidays.
 ### Screenshots:
 ### 1- Dashboard Home
 <img src="Screenshots/1- Dashboard Home.PNG" alt="Logo" width="100%"/>
+<p></p>
 
 ### 2- Dashboard Overview.PNG
 <img src="Screenshots/2- Dashboard Overview.PNG" alt="Logo" width="100%"/>
+<hr />
 
 ### 3- Dashboard Comparison
 <img src="Screenshots/3- Dashboard Comparison.PNG" alt="Logo" width="100%"/>
+<hr />
 
 ### 4- Dashboard Key Insights
 <img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Logo" width="100%"/>
-<p></p>
+<hr />
 
