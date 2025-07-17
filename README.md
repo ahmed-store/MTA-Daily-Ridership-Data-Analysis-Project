@@ -56,20 +56,20 @@ than completed trips.
 weekdays, Saturdays, and Sundays/holidays.
 ### Screenshots:
 ### 1- Dashboard Home
-<img src="Screenshots/1- Dashboard Home.PNG" alt="Logo" width="100%"/>
+<img src="Screenshots/1- Dashboard Home.PNG" alt="Dashboard Home" width="100%"/>
 <br />
 <br />
 
-### 2- Overview.PNG
-<img src="Screenshots/2- Dashboard Overview.PNG" alt="Logo" width="100%"/>
+### 2- Overview
+<img src="Screenshots/2- Dashboard Overview.PNG" alt="Overview" width="100%"/>
 <br />
 <br />
 
 ### 3- Comparison
-<img src="Screenshots/3- Dashboard Comparison.PNG" alt="Logo" width="100%"/>
+<img src="Screenshots/3- Dashboard Comparison.PNG" alt="Comparison" width="100%"/>
 <br />
 <br />
 
 ### 4- Key Insights
-<img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Logo" width="100%"/>
+<img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Key Insights" width="100%"/>
 
