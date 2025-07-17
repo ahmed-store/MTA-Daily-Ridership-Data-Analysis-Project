@@ -61,13 +61,12 @@ weekdays, Saturdays, and Sundays/holidays.
 
 ### 2- Dashboard Overview.PNG
 <img src="Screenshots/2- Dashboard Overview.PNG" alt="Logo" width="100%"/>
-<hr />
+<p></p>
 
 ### 3- Dashboard Comparison
 <img src="Screenshots/3- Dashboard Comparison.PNG" alt="Logo" width="100%"/>
-<hr />
+<p></p>
 
 ### 4- Dashboard Key Insights
 <img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Logo" width="100%"/>
-<hr />
 
