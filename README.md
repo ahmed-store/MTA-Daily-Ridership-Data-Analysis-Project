@@ -8,7 +8,11 @@
 - Ahmed Sherif Ahmed
 - Ahmed Mohamed El-Sayed
 - Ebtsam Emam El-Sayed
- 
+ ### Overview 
+This project analyzes the daily ridership of the Metropolitan Transportation Authority (MTA) 
+across different transit modes, comparing post-pandemic ridership levels to pre-pandemic 
+benchmarks. The goal is to identify trends, patterns, and insights that can inform 
+transportation policies and operational decisions.
 ### Introduction 
 Public transportation is a critical component of urban mobility, and understanding 
 ridership trends can help transit authorities make data-driven decisions. The COVID-19 
@@ -17,12 +21,7 @@ Transportation Authority (MTA) network in New York. This project aims to analyze
 ridership data, comparing post-pandemic recovery trends against pre-pandemic levels. 
 By examining subway, bus, commuter rail, and other transit services, we aim to uncover 
 patterns that can inform infrastructure planning, service adjustments, and policy 
-decisions. 
-### Overview 
-This project analyzes the daily ridership of the Metropolitan Transportation Authority (MTA) 
-across different transit modes, comparing post-pandemic ridership levels to pre-pandemic 
-benchmarks. The goal is to identify trends, patterns, and insights that can inform 
-transportation policies and operational decisions. 
+decisions.  
 ### Objectives 
 This project aims to:
 
@@ -55,3 +54,14 @@ than completed trips.
 - Bridges and Tunnels Traffic: Based on toll collection system data. 
 - Pre-Pandemic Comparison: Uses 2019 monthly averages for non-holiday 
 weekdays, Saturdays, and Sundays/holidays.
+### Screenshots:
+## 1- Dashboard Home
+<img src="Screenshots/1- Dashboard Home.PNG" alt="Logo" width="100%"/>
+## 2- Dashboard Overview.PNG
+<img src="Screenshots/2- Dashboard Overview.PNG" alt="Logo" width="100%"/>
+## 3- Dashboard Comparison
+<img src="Screenshots/3- Dashboard Comparison.PNG" alt="Logo" width="100%"/>
+## 4- Dashboard Key Insights
+<img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Logo" width="100%"/>
+<p></p>
+
