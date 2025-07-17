@@ -4,9 +4,9 @@
 
 # MTA Daily Ridership Data Analysis Project
 ## Group 3 Members (CLS ONL2_DAT2_G2) 
-- Amer Ahmed Soliman
-- Ahmed Sherif Ahmed
 - Ahmed Mohamed El-Sayed
+- Ahmed Sherif Ahmed
+- Amer Ahmed Soliman
 - Ebtsam Emam El-Sayed
  ### Overview 
 This project analyzes the daily ridership of the Metropolitan Transportation Authority (MTA) 
@@ -57,15 +57,18 @@ weekdays, Saturdays, and Sundays/holidays.
 ### Screenshots:
 ### 1- Dashboard Home
 <img src="Screenshots/1- Dashboard Home.PNG" alt="Logo" width="100%"/>
-<p></p>
+<br />
+<br />
 
 ### 2- Dashboard Overview.PNG
 <img src="Screenshots/2- Dashboard Overview.PNG" alt="Logo" width="100%"/>
-<p></p>
+<br />
+<br />
 
 ### 3- Dashboard Comparison
 <img src="Screenshots/3- Dashboard Comparison.PNG" alt="Logo" width="100%"/>
-<p></p>
+<br />
+<br />
 
 ### 4- Dashboard Key Insights
 <img src="Screenshots/4- Dashboard Key Insights.PNG" alt="Logo" width="100%"/>
